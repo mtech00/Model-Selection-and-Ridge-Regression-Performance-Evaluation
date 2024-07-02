@@ -4,7 +4,7 @@ Sure! Here is the content from your PDF transformed into a GitHub README file fo
 # Refactor Gas Rate Prediction
 
 Muhammet Ali YILDIZ  
-1709981  
+
 Polytechnic Institute of Guarda  
 
 ## 1. Introduction

@@ -1,4 +1,4 @@
-Sure! Here is the content from your PDF transformed into a GitHub README file format:
+
 
 ```markdown
 # Refactor Gas Rate Prediction
